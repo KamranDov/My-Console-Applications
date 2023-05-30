@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int balance = 1000, input, remainder = 0;
+        int balance = 1000, input, remainder;
         String bankName = """
 
                 ...:|||||Welcome to DIAMOND bank|||||:...
